@@ -1,3 +1,6 @@
+docker build -t getting-started .
+
+docker run -dp 3000:3000 getting-started
 # vue3-baseball
 
 ## Project setup
