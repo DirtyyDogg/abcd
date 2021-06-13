@@ -1,0 +1,11 @@
+query pitchers {
+  pitchers {
+    player
+    playerid
+    team
+    positions
+    wins
+    strikeouts
+    innings_pitched
+  }
+}
